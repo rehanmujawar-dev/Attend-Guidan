@@ -5,6 +5,7 @@ the backend is used python flask,python fastAPI
 the database sql.
 
 Project Structure :-
+```
 Attend-Guidan/
 │
 ├── app.py
@@ -47,3 +48,5 @@ Attend-Guidan/
     │
     └── images/
         └── logo.png
+        
+```
